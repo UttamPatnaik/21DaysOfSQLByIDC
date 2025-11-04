@@ -1,6 +1,6 @@
 # 🧠 21-Day SQL Challenge by Indian Data Club
 
-![Starting Badge](your_badge_image_link_here)
+![Starting Badge](21DaysOfSQL.jpg)
 
 Welcome to my journey through the **21-Day SQL Challenge** by [Indian Data Club](https://www.linkedin.com/company/indiandataclub/) and [DPDZero](https://www.linkedin.com/company/dpdzero/)!  
 This challenge focuses on mastering SQL — from fundamentals to advanced analytics — through daily problem-solving and hands-on practice.
