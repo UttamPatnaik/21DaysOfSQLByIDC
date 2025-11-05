@@ -26,9 +26,15 @@ This challenge focuses on mastering SQL — from fundamentals to advanced analyt
 
 ## 📂 Databases Used
 
-| Database Name | Description |
-|:---------------|:-------------|
-| `hospital_db` | Contains patient, services, and appointment data |
+## 📂 Databases Used
+
+| **Table Name** | **File Link** |
+|:----------------|:--------------|
+| `patients` | [patients.csv](./datasets/patients.csv) |
+| `services_weekly` | [services_weekly.csv](./datasets/services_weekly.csv) |
+| `staff` | [staff.csv](./datasets/staff.csv) |
+| `staff_schedule` | [staff_schedule.csv](./datasets/staff_schedule.csv) |
+
 
 ---
 
@@ -36,11 +42,11 @@ This challenge focuses on mastering SQL — from fundamentals to advanced analyt
 
 | **Day** | **Topic / Focus** | **Challenge Description** | **SQL File / Notebook** |
 |:--------|:------------------|:---------------------------|:-------------------------|
-| ✅ **Day 1** | SQL Basics — SELECT, DISTINCT | List all unique hospital services | [Day_01.sql](./Day_01.sql) |
-| ⏳ **Day 2** | *Coming soon...* |  |  |
-| ⏳ **Day 3** | *Coming soon...* |  |  |
+| ✅ **Day1** | SQL Basics — SELECT, DISTINCT | List all unique hospital services | [Day_01.sql](./Day_01.sql) |
+| ✅ **Day2** | Filtering Data with WHERE Clause | Find all patients admitted to 'Surgery' service with satisfaction score below 70 | [Day_02.sql](./Day_02.sql) |
+| ✅ **Day3** | Sorting Data with ORDER BY | Retrieve top 5 weeks with highest patient refusals across all services | [Day_03.sql](./Day_03.sql) |
 
-> I’ll be updating this table daily with new learnings, queries, and insights!
+> I’ll be updating this table daily with new learnings, queries, and insights! 🚀
 
 ---
 
