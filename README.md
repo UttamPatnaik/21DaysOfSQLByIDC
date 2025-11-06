@@ -45,6 +45,8 @@ This challenge focuses on mastering SQL — from fundamentals to advanced analyt
 | ✅ **Day1** | SQL Basics — SELECT, DISTINCT | List all unique hospital services | [Day_01.sql](./Day_01.sql) |
 | ✅ **Day2** | Filtering Data with WHERE Clause | Find all patients admitted to 'Surgery' service with satisfaction score below 70 | [Day_02.sql](./Day_02.sql) |
 | ✅ **Day3** | Sorting Data with ORDER BY | Retrieve top 5 weeks with highest patient refusals across all services | [Day_03.sql](./Day_03.sql) |
+| ✅ **Day4** | Limiting & Paginating Results — LIMIT, OFFSET | Find the 3rd to 7th highest patient satisfaction scores from the patients table | [Day_04.sql](./Day_04.sql) |
+
 
 > I’ll be updating this table daily with new learnings, queries, and insights! 🚀
 
